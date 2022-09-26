@@ -12,7 +12,7 @@
 
 desenvolvedor 
 
-- 💻 Estudante de programação  
+- 💻 Estudante  
 - 💻 Full Stack
 
 <div>
