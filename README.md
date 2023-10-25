@@ -21,9 +21,6 @@
 </div>
 
 ---
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisDev3&layout=compact&theme=dracula)
 
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denisdev3&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Denisdev3&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-</div>
