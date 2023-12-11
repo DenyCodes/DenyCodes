@@ -6,6 +6,8 @@
 </div>
 <div>
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DenyCodes&layout=compact&theme=dracula)
+</div>
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenyCodes&show_icons=true&theme=radical)
 </div>
 <div>
