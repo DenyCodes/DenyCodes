@@ -21,6 +21,6 @@
 </div>
 
 ---
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisDev3&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DenyCodes3&layout=compact&theme=dracula)
 
 
